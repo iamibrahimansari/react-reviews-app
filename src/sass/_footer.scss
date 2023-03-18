@@ -1,0 +1,27 @@
+.btns{
+    &__left-right-arrow{
+        display: flex;
+        gap: 4rem;
+        font-size: 2rem;
+        color: blue;
+        cursor: pointer;
+        justify-content: center;
+        margin-bottom: 2rem;
+        *:hover{
+            color: rgb(0, 76, 255);
+        } 
+    }
+    &__btn{
+        padding: 0.7rem 1.5rem;
+        border: none;
+        color: #3264a5;
+        background-color: #8cc9e8;
+        border-radius: 3px;
+        &:hover{
+            background-color: #2d63c1;
+            color: #fff;
+            transition: all 0.5s;
+            cursor: pointer;
+        }
+    }
+}

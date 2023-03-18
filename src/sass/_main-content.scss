@@ -1,0 +1,20 @@
+.emp-information{
+    *{
+        margin-bottom: 1.5rem;
+    }
+    &__name{
+        font-weight: 400;
+        font-size: 3rem;
+        margin-bottom: 0.5rem;
+    }
+
+    &__profession{
+        color: blue;
+    }
+
+    &__desc{
+        font-size: 1.6rem;
+        color: #706f6f;
+        line-height: 1.5;
+    }
+}
