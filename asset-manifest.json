@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-reviews-app/static/css/main.71be996c.css",
+    "main.js": "/react-reviews-app/static/js/main.60bf707e.js",
+    "static/media/emp1.jpg": "/react-reviews-app/static/media/emp1.80a56948cd56e63f7ee1.jpg",
+    "static/media/emp3.jpg": "/react-reviews-app/static/media/emp3.60140db4cbafafd12671.jpg",
+    "static/media/emp2.jpg": "/react-reviews-app/static/media/emp2.656e3da7229aed34b790.jpg",
+    "static/media/emp4.jpg": "/react-reviews-app/static/media/emp4.05c65e9341283e507e43.jpg",
+    "index.html": "/react-reviews-app/index.html",
+    "main.71be996c.css.map": "/react-reviews-app/static/css/main.71be996c.css.map",
+    "main.60bf707e.js.map": "/react-reviews-app/static/js/main.60bf707e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71be996c.css",
+    "static/js/main.60bf707e.js"
+  ]
+}
